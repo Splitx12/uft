@@ -1,6 +1,3 @@
-@angular-material-components/file-input
-MIT
-
 @angular/animations
 MIT
 
@@ -300,6 +297,9 @@ Apache-2.0
 
    END OF TERMS AND CONDITIONS
 
+
+ngx-material-file-input
+MIT
 
 rxjs
 Apache-2.0
