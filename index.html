@@ -14,21 +14,6 @@
 <link rel="stylesheet" href="styles.7a8ee38b34d9c9bc7312.css"></head>
 
 <body class="mat-typography" oncontextmenu="return false">
-    <!-- Github Pages hack to allow SPA refresh without receiving 404. -->
-    <script>
-        (function () {
-            // Retrieve the URL the user was trying to access when receiving the 404.
-            var redirect = sessionStorage.redirect;
-            // Remove the URL from sessionStorage.
-            delete sessionStorage.redirect;
-            // Check if we actually need to redirect.
-            if (redirect && redirect != location.href) {
-                // We need to redirect to the URL the user was trying to access.
-                history.replaceState(null, null, redirect);
-            }
-        })();
-    </script>
-    <!-- /Github Pages hack. -->
     <app-root></app-root>
 <script src="runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="polyfills.a4021de53358bb0fec14.js" defer></script><script src="main.6c960174f150ac193d35.js" defer></script></body>
 
