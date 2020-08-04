@@ -1,6 +1,8 @@
 title: Your awesome title
 lang: en-US
 description: Write an awesome description for your new site here
+destination: /wiki
+baseurl: /wiki
 
 remote_theme: rundocs/jekyll-rtd-theme
 
