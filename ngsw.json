@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604466405184,
+  "timestamp": 1606887542178,
   "index": "https://corrm.github.io/uft/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://corrm.github.io/uft/4.e2576e2295f7dce7b9c6.js",
+        "https://corrm.github.io/uft/4.c35f167f53674f6e2695.js",
         "https://corrm.github.io/uft/favicon.ico",
         "https://corrm.github.io/uft/index.html",
-        "https://corrm.github.io/uft/main.1ae6c4a6850381d19d07.js",
+        "https://corrm.github.io/uft/main.612f863f3860b22ffecf.js",
         "https://corrm.github.io/uft/manifest.webmanifest",
-        "https://corrm.github.io/uft/polyfills.35a5ca1855eb057f016a.js",
-        "https://corrm.github.io/uft/runtime.9c89d146bcc5c1e8c40a.js",
-        "https://corrm.github.io/uft/styles.ed943802f3854ae2c0da.css"
+        "https://corrm.github.io/uft/polyfills.9bf4dad123bd95dda86e.js",
+        "https://corrm.github.io/uft/runtime.61d0a003b7dbbe1d119a.js",
+        "https://corrm.github.io/uft/styles.7bb71956b8d30c03d93a.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://corrm.github.io/uft/assets/bg.png",
         "https://corrm.github.io/uft/assets/css/dark-json.css",
         "https://corrm.github.io/uft/assets/gold-star.png",
         "https://corrm.github.io/uft/assets/icons/icon-128x128.png",
@@ -41,14 +42,16 @@
         "https://corrm.github.io/uft/assets/icons/icon-72x72.png",
         "https://corrm.github.io/uft/assets/icons/icon-96x96.png",
         "https://corrm.github.io/uft/assets/json-icon.png",
-        "https://corrm.github.io/uft/assets/uft.png"
+        "https://corrm.github.io/uft/assets/uft.png",
+        "https://corrm.github.io/uft/assets/unreal.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://corrm.github.io/uft/4.e2576e2295f7dce7b9c6.js": "944dc067d0fb0451273d2cec08c6e39a91599d11",
+    "https://corrm.github.io/uft/4.c35f167f53674f6e2695.js": "c1b7fdfbff551eae4ba0ebb2825abc67d92830e5",
+    "https://corrm.github.io/uft/assets/bg.png": "8ff19f01dc3b7649f9e6bc8ef0e74bd04ff68124",
     "https://corrm.github.io/uft/assets/css/dark-json.css": "7ca15a6b63b12ccb51ab3c998d86fde205d26483",
     "https://corrm.github.io/uft/assets/gold-star.png": "2a361b986f591827cf11f846e0dc1cd3d9e951c0",
     "https://corrm.github.io/uft/assets/icons/icon-128x128.png": "1359758dd7c80b5f739ec754183a1836770c44e6",
@@ -61,13 +64,14 @@
     "https://corrm.github.io/uft/assets/icons/icon-96x96.png": "f0b54dd3588c747dbeff9986f146677e9679283d",
     "https://corrm.github.io/uft/assets/json-icon.png": "99644b5343dc0933513aad1761b11415aa2cd8c5",
     "https://corrm.github.io/uft/assets/uft.png": "c0336513f25caa60b455ba4dfc2d759b18f476f3",
+    "https://corrm.github.io/uft/assets/unreal.png": "970655ec50808fbda56be9a6218e363a83b76758",
     "https://corrm.github.io/uft/favicon.ico": "b1dc186c2b8b917f278e1590a6d266271f3648cb",
-    "https://corrm.github.io/uft/index.html": "ac062ff634faf7bff060a75e6537da4ed826f3cf",
-    "https://corrm.github.io/uft/main.1ae6c4a6850381d19d07.js": "ad7cffa1ae613825d7b445fd3e8abefb0dbd96c3",
+    "https://corrm.github.io/uft/index.html": "acb3670296cd99846ea303b5db148771238121a5",
+    "https://corrm.github.io/uft/main.612f863f3860b22ffecf.js": "47b547ac9aacb80a208b1f3e3c0991da336cca17",
     "https://corrm.github.io/uft/manifest.webmanifest": "13d7c6dda93dd1651210099229a5a38b1a179e22",
-    "https://corrm.github.io/uft/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
-    "https://corrm.github.io/uft/runtime.9c89d146bcc5c1e8c40a.js": "4e3a7dfa4ac3a8191f63672dab3c22df733b6c78",
-    "https://corrm.github.io/uft/styles.ed943802f3854ae2c0da.css": "a05b2db821da29581bf7d6e29d11c5d045933597"
+    "https://corrm.github.io/uft/polyfills.9bf4dad123bd95dda86e.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://corrm.github.io/uft/runtime.61d0a003b7dbbe1d119a.js": "f411f349cc88237ce5569ee5ceab5176e4742226",
+    "https://corrm.github.io/uft/styles.7bb71956b8d30c03d93a.css": "ce530ecfa266671ad37340a631a10bc14816e5bd"
   },
   "navigationUrls": [
     {
@@ -86,5 +90,6 @@
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
-  ]
+  ],
+  "navigationRequestStrategy": "performance"
 }
