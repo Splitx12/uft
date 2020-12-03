@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606889085250,
+  "timestamp": 1606960337786,
   "index": "https://corrm.github.io/uft/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "https://corrm.github.io/uft/4.c35f167f53674f6e2695.js",
         "https://corrm.github.io/uft/favicon.ico",
         "https://corrm.github.io/uft/index.html",
-        "https://corrm.github.io/uft/main.02c47d0f9b030a802a0d.js",
+        "https://corrm.github.io/uft/main.cef2f92f32a2268c3905.js",
         "https://corrm.github.io/uft/manifest.webmanifest",
         "https://corrm.github.io/uft/polyfills.9bf4dad123bd95dda86e.js",
         "https://corrm.github.io/uft/runtime.61d0a003b7dbbe1d119a.js",
@@ -66,8 +66,8 @@
     "https://corrm.github.io/uft/assets/uft.png": "c0336513f25caa60b455ba4dfc2d759b18f476f3",
     "https://corrm.github.io/uft/assets/unreal.png": "970655ec50808fbda56be9a6218e363a83b76758",
     "https://corrm.github.io/uft/favicon.ico": "b1dc186c2b8b917f278e1590a6d266271f3648cb",
-    "https://corrm.github.io/uft/index.html": "4c81586805b32d849945caccc5c74ad4c3873538",
-    "https://corrm.github.io/uft/main.02c47d0f9b030a802a0d.js": "68104cc6456d536566bfef847b2e406fac3573bf",
+    "https://corrm.github.io/uft/index.html": "818c0612dbe398ace4903dec886466ac9f52c50a",
+    "https://corrm.github.io/uft/main.cef2f92f32a2268c3905.js": "2ede395dbc7a8e3fb3be0a4e117b92bbe8949007",
     "https://corrm.github.io/uft/manifest.webmanifest": "13d7c6dda93dd1651210099229a5a38b1a179e22",
     "https://corrm.github.io/uft/polyfills.9bf4dad123bd95dda86e.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "https://corrm.github.io/uft/runtime.61d0a003b7dbbe1d119a.js": "f411f349cc88237ce5569ee5ceab5176e4742226",
