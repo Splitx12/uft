@@ -5,7 +5,7 @@
 .dark-theme div.jsoneditor textarea,
 .dark-theme .jsoneditor-schema-error,
 .dark-theme .ace-jsoneditor.ace_editor {
-    -webkit-text-stroke-width: 0px;
+    -webkit-text-stroke-width: 0;
 }
 
 
@@ -79,7 +79,7 @@
 
 .confirmation-dark button.mat-button {
 	float: right;
-	right: 0px;
+	right: 0;
 }
 
 .confirmation-dark .mat-raised-button {
@@ -89,13 +89,14 @@
 
 /* Track */
 .dark-theme ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2);
 	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.2);
 }
 
 /* Handle */
 .dark-theme ::-webkit-scrollbar-thumb {
 	background: #9b9b9b;
-	border-radius: 0px;
+	border-radius: 0;
 	cursor: pointer;
 }
 
@@ -227,8 +228,9 @@
 }
 
 .dark-theme div.jsoneditor-contextmenu ul li button {
-    -webkit-text-stroke-width: 0px;
+    -webkit-text-stroke-width: 0;
     color: #fff;
+	filter: none;
 }
 
 .dark-theme div.jsoneditor-contextmenu ul li ul li button:focus,
@@ -252,10 +254,6 @@
 .dark-theme tr.jsoneditor-highlight .jsoneditor-tree,
 .dark-theme tr.jsoneditor-selected .jsoneditor-tree {
 	background: #545454;
-}
-
-.dark-theme div.jsoneditor-contextmenu ul li button {
-	filter: none;
 }
 
 .dark-theme div.jsoneditor-contextmenu ul li button:focus,
